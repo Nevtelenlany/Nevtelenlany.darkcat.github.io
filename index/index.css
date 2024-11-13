@@ -1,0 +1,19 @@
+body{
+background-color: black;}
+
+#fehercica{
+    margin-left: 45%;
+    margin-top: 1%;
+}
+
+h1{
+    margin-left: 46%;
+    margin-top: -1%;
+    color: white;
+}
+
+canvas{
+    margin-left: 250px;
+    margin-bottom: 250px;
+    margin-right: 0px;
+}
